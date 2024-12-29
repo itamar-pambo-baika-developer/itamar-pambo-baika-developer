@@ -9,8 +9,8 @@
 - 📫 Contacte-me pelo meu [Linkedin](https://linkedin.com/in/itamarpambo) ou pelo Email itamarpambo.dev@gmail.com
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itamarpambo751&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Itamar Mateus Pedro Pambo" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamarpambo751&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=itamar-pambo-baika-developer&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Itamar Mateus Pedro Pambo" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamar-pambo-baika-developer&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
